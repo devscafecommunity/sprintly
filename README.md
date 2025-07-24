@@ -19,9 +19,7 @@
 - Modo foco e Pomodoro integrados
 
 ### ⚙️ Recursos Técnicos
-- Backend baseado em **Supabase** (PostgreSQL, Auth, RLS)
 - Frontend com **Next.js + Tailwind CSS**
-- API para parsing de metas importadas
 - Suporte a LLMs para geração e sugestão de etapas
 
 ---
